@@ -8,20 +8,20 @@
 
 ---
 
-> Conceitos importantes tratados:
+*Conceitos importantes tratados :*
+
+> - arrays
 >
-> arrays
+> - document.getElementById()
 >
-> document.getElementById()
+> - document.querySelector()
 >
-> document.querySelector()
+> - addEventListener()
 >
-> addEventListener()
+> - document.body.style.backgroundColor
 >
-> document.body.style.backgroundColor
+> - Math.floor()
 >
-> Math.floor()
+> - Math.random()
 >
-> Math.random()
->
-> array.length
+> - array.length
