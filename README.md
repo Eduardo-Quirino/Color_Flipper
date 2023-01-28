@@ -1,24 +1,27 @@
 # seletor_de_cores
+
  Projeto de criação de seletor de cores em javascript puro
 
-> O projeto tem como finalidade criar um site com um botão onde o usuário possa clicar no botão e alterar as cores com informação do código em hexa decimal. 
+> O Color_Flipper
+>
+> Públicoprojeto tem como finalidade criar um site com um botão onde o usuário possa clicar no botão e alterar as cores com informação do código em hexa decimal.
 
 ---
 
 > Conceitos importantes tratados:
 >
->  arrays 
+> arrays
 >
-> document.getElementById() 
+> document.getElementById()
 >
-> document.querySelector() 
+> document.querySelector()
 >
-> addEventListener() 
+> addEventListener()
 >
-> document.body.style.backgroundColor 
+> document.body.style.backgroundColor
 >
-> Math.floor() 
+> Math.floor()
 >
-> Math.random() 
+> Math.random()
 >
 > array.length
