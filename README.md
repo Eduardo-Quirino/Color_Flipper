@@ -3,6 +3,8 @@
 
 > O projeto tem como finalidade criar um site com um botão onde o usuário possa clicar no botão e alterar as cores com informação do código em hexa decimal. 
 
+---
+
 > Conceitos importantes tratados:
 >
 >  arrays 
